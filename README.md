@@ -1,4 +1,4 @@
-# Persona and Behaviour Alignment for AI Agents
+# Persona and Behaviour Alignment for LLM-Driven Agents
 
 This framework is designed to observe and evaluate AI agents, testing the level of persona adherence and behavioural alignment 
 observed in agents powered by a large language model (LLM). It's primary evaluation method is a red teaming-based technique that
